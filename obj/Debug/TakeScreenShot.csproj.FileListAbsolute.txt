@@ -1,0 +1,11 @@
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.csproj.AssemblyReference.cache
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.Properties.Resources.resources
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.ScreenshotApp.resources
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.csproj.GenerateResource.cache
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.csproj.CoreCompileInputs.cache
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\bin\Debug\TakeScreenShot.exe
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\bin\Debug\TakeScreenShot.pdb
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.csproj.CopyComplete
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.exe
+C:\Users\NEUROEQUILIBRIUM\Downloads\TakeScreenShot\obj\Debug\TakeScreenShot.pdb
